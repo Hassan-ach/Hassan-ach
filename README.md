@@ -1,39 +1,63 @@
-<img align="right" src="./assets/bird.gif" width="270" alt="flying bird gif" />
+<img align="right" src="./assets/bird.gif" width="350" alt="flying bird gif" />
 
-# Hassan Ach
+<div align="center">
 
-Backend-focused builder with a soft spot for terminal tools and practical AI.
+### 👋 Hey, I'm Hassan!
 
-I like shipping clean systems that are simple to use and hard to break.
+**Software Engineering Student**
+**Backend • AI • Terminal Tools**
 
-## What I Work On
+*I build practical, high-performance systems that are reliable and easy to maintain.*
 
-- Backend systems
-- AI tools
-- Terminal software
-- Homelab and self-hosted infrastructure
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/el-hassan-achlou-472aa3254/)
 
-## Tech Stack
+</div>
 
-`Java` `Spring Boot` `PHP` `Laravel` `Rust` `Go`
 
-## Current Focus
+#### 🛠️ What I Work On
 
-- Secure APIs and authentication flows
-- AI-assisted developer tools
-- Fast and lightweight CLI apps
-- Homelab automation and reliable self-hosted services
+- **Backend systems & APIs** – Scalable, secure, and production-ready
+- **AI-powered tools** – Applied solutions that improve productivity
+- **Terminal & CLI applications** – Fast and efficient command-line workflows
+- **Self-hosted infrastructure** – Privacy-focused services with full operational control
 
-## Featured Builds
+#### 💻 Tech Stack
 
-- **[Glim](https://github.com/Hassan-ach/glim)**: YouTube Summaries Inside Your Browser.
-- **[Boogle](https://github.com/Hassan-ach/boogle)**: A 2000s-style search engine.
-- **[AIC](https://github.com/Hassan-ach/aic)**: An AI-powered CLI tool for command execution.
+<div align="center">
 
-## Connect
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33D?style=for-the-badge&logo=springboot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-- [GitHub](https://github.com/Hassan-ach)
-- [LinkedIn](https://www.linkedin.com/in/el-hassan-achlou-472aa3254/)
-- [X](https://x.com/Hassan_achlou)
-- [Email](mailto:hassanachlou@gmail.com)
-<!-- - [Portfolio](https://example.com) (placeholder) -->
+</div>
+
+#### 🚀 Current Focus
+
+- Strengthening backend engineering for scalable production systems
+- Designing secure REST APIs and authentication flows
+- Building practical AI-powered tools that improve developer productivity
+- Developing high-performance CLI applications with clean, maintainable architecture
+- Managing self-hosted infrastructure with a focus on reliability and operational simplicity
+
+
+#### 📬 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/el-hassan-achlou-472aa3254/)
+[![𝕏](https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Hassan_achlou)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassanachlou@gmail.com)
+
+</div>
+
+
+<div align="center">
+
+**Thanks for stopping by!**
+Open to connecting about backend engineering, AI tooling, and infrastructure-focused projects.
+
+</div>
